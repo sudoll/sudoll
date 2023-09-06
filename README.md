@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # sudollzip
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=sudollz!p&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20%20✴︎&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=dcdcdc&height=300&section=header&text=sudollz!p&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20%20✴︎&descAlignY=51&descAlign=62)
 <br>
 
 ## About Me
